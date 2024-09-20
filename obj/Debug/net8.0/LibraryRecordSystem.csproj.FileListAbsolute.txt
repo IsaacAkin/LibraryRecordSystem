@@ -1,0 +1,14 @@
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\bin\Debug\net8.0\LibraryRecordSystem.exe
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\bin\Debug\net8.0\LibraryRecordSystem.deps.json
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\bin\Debug\net8.0\LibraryRecordSystem.runtimeconfig.json
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\bin\Debug\net8.0\LibraryRecordSystem.dll
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\bin\Debug\net8.0\LibraryRecordSystem.pdb
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.AssemblyInfo.cs
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.dll
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\refint\LibraryRecordSystem.dll
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.pdb
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.genruntimeconfig.cache
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\ref\LibraryRecordSystem.dll
