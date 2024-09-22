@@ -12,3 +12,4 @@ C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\
 C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.pdb
 C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.genruntimeconfig.cache
 C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\ref\LibraryRecordSystem.dll
+C:\Users\Isaac\Documents\Projects\Bootcamp\LibraryRecordSystem\obj\Debug\net8.0\LibraryRecordSystem.sourcelink.json
