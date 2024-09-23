@@ -2,14 +2,14 @@
 {
     class Book
     {
-        public string Name;
+        public string NameOfBook;
         public string Author;
         public int ISBNnumber;
         public DateTime AcquisitionDate;
 
-        public Book(string name, string author, int isbnNumb, DateTime acquisitionDate)
+        public Book(string nameOfBook, string author, int isbnNumb, DateTime acquisitionDate)
         {
-            Name = name;
+            NameOfBook = nameOfBook;
             Author = author;
             ISBNnumber = isbnNumb;
             AcquisitionDate = acquisitionDate;
@@ -17,17 +17,17 @@
 
         public override string ToString()
         {
-            return $"{Name} {Author} {ISBNnumber} {AcquisitionDate.ToShortDateString()}";
+            return $"{NameOfBook} {Author} {ISBNnumber} {AcquisitionDate.ToShortDateString()}";
         }
 
-        public string GetName()
+        public string GetNameOfBook()
         {
-            return Name;
+            return NameOfBook;
         }
 
-        public void SetName(string name)
+        public void SetNameOfBook(string nameOfBook)
         {
-            Name = name;
+            NameOfBook = nameOfBook;
         }
 
         public string GetAuthor()
