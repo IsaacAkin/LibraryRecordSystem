@@ -7,7 +7,7 @@ The `Library Record System` is a console-based application designed to manage li
 - `Librarians` can: add, remove, and manage books, customers, and loans.
 - `Customers` can: return books, search for books, and view their current loans.
 
-The application is built using C# and user interaction is handles using the command line.
+The application is built using C# and user interaction is handled using the command line.
 
 ## Pre-requisites
 
@@ -36,23 +36,24 @@ The application is built using C# and user interaction is handles using the comm
 
 ## Getting Started
 
-1. Build the project
+1. Clone the repository:
+
+```
+git clone https://github.com/IsaacAkin/LibraryRecordSystem.git
+cd LibraryRecordSystem
+```
+
+2. Build the project:
 
 ```
 dotnet build
 ```
 
-2. Run the application
+3. Run the application:
 
 ```
 dotnet run
 ```
-
-The system will prompt the user with a main menu to either:
-
-- Log in as a librarian.
-- Log in as a customer.
-- Exit the application.
 
 ## Usage
 
