@@ -128,8 +128,7 @@ namespace LibraryRecordSystem
                         break;
 
                     case 3:
-                        MainMenu();
-                        break;
+                        return;
 
                     default:
                         Console.WriteLine("Invalid option. Please select a valid option (1-3):");
@@ -317,8 +316,7 @@ namespace LibraryRecordSystem
                         break;
 
                     case 4:
-                        MainMenu();
-                        break;
+                        return;
 
                     default:
                         Console.WriteLine("Invalid option. Please select a valid option (1-4):");
