@@ -4,8 +4,9 @@
 
 The `Library Record System` is a console-based application designed to manage library operations. The system supports two types of users: librarians and customers. Each user type has distinct functionalities:
 
-`Librarians` can: add, remove, and manage books, customers, and loans.
-`Customers` can: return books, search for books, and view their current loans.
+- `Librarians` can: add, remove, and manage books, customers, and loans.
+- `Customers` can: return books, search for books, and view their current loans.
+
 The application is built using C# and user interaction is handles using the command line.
 
 ## Pre-requisites
@@ -35,22 +36,23 @@ The application is built using C# and user interaction is handles using the comm
 
 ## Getting Started
 
-- Build the project
+1. Build the project
 
 ```
 dotnet build
 ```
 
-- Run the application
+2. Run the application
 
 ```
 dotnet run
 ```
 
-- The system will prompt the user with a main menu to either:
-  Log in as a librarian.
-  Log in as a customer.
-  Exit the application.
+The system will prompt the user with a main menu to either:
+
+- Log in as a librarian.
+- Log in as a customer.
+- Exit the application.
 
 ## Usage
 
@@ -85,9 +87,10 @@ Librarian Menu
 #### Display Data
 
 Librarians can view:
-All books in the library.
-All registered customers.
-All current loans.
+
+- All books in the library.
+- All registered customers.
+- All current loans.
 
 #### Search Functionality
 
