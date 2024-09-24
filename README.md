@@ -83,7 +83,7 @@ Librarian Menu
 
 #### Add/Remove/Update Data
 
-- Librarians can choose to add, remove, or update data such as books, customers, and loans.
+Librarians can choose to add, remove, or update data such as books, customers, and loans.
 
 #### Display Data
 
@@ -95,11 +95,11 @@ Librarians can view:
 
 #### Search Functionality
 
-- Search for specific books, customers, or loans using keywords or IDs.
+Search for specific books, customers, or loans using keywords or IDs.
 
 ### Customer Operations
 
-- Upon logging in as a customer (via customer ID), users will access the `Customer Menu`:
+Upon logging in as a customer (via customer ID), users will access the `Customer Menu`:
 
 ```
 Customer Menu
@@ -109,4 +109,4 @@ Customer Menu
 4. Exit to Main Menu
 ```
 
-- Customers can search for books, return borrowed books, and view their current loans.
+Customers can search for books, return borrowed books, and view their current loans.
