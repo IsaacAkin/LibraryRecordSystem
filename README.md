@@ -2,7 +2,9 @@
 
 ## Overview
 
-The `Library Record System` is a console-based application designed to manage library operations. The system supports two types of users: librarians and customers. Each user type has distinct functionalities:
+The `Library Record System` is a console-based application designed to manage library operations. A new version: [Local Library](https://github.com/IsaacAkin/LocalLibrary) is an updated version of the Library Record System. This new version is a web application as opposed to a console application and has full database integration using MySql. Development is currently ongoing.
+
+The system supports two types of users: librarians and customers. Each user type has distinct functionalities:
 
 - `Librarians` can: add, remove, and manage books, customers, and loans.
 - `Customers` can: return books, search for books, and view their current loans.
